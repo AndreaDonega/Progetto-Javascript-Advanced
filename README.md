@@ -1,5 +1,8 @@
 # Progetto-Javascript-Advanced
 
+Link per provare il progetto online : 
+https://andreadonega.github.io/Progetto-Javascript-Advanced/
+
 Progetto javascript avanzato realizzato per start2impact
 
 Quality of life indicator è una web app realizzata con javascript che riceve in input il nome di una città (in inglese) e restituisce una descrizione seguita da un punteggio per diversi parametri come sicurezza, sanità, possibilità di business ecc.
